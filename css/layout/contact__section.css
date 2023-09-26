@@ -1,0 +1,11 @@
+.contact__section {
+  padding: 12rem 0;
+  background-color: var(--bg-section-color);
+}
+
+.contact__form {
+  background-color: var(--color-white);
+  padding: 4.8rem;
+  border-radius: 10px;
+  box-shadow: var(--shadow-lg);
+}

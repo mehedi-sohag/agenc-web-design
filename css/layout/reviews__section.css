@@ -1,0 +1,35 @@
+.reviews__star-icon {
+  font-size: 1.6rem;
+  color: var(--color-star);
+}
+.reviews__section {
+  padding: 12rem 0;
+}
+.user-img {
+  border-radius: 50%;
+}
+
+.reviews__user-box {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+.reviews__text-box {
+  padding: 9.6rem 3rem 4.8rem 3rem;
+  position: relative;
+  border-radius: 20px;
+  transition: all 0.3s;
+}
+.reviews__text-box:hover {
+  background-color: #f4efef50;
+}
+.quotation {
+  position: absolute;
+  top: 97px;
+  left: 20px;
+  font-size: 150px;
+  line-height: 0;
+  font-weight: 600;
+  color: #f1eefe;
+}

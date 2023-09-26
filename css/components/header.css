@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+  padding-top: 2.4rem;
+}
+
+.nav-link:link,
+.nav-link:visited {
+  font-size: 1.8rem;
+  color: var(--color-white);
+}
+.nav-link:hover,
+.nav-link:active {
+  color: var(--color-secondary);
+}
+
+.nav-item:not(:last-child) {
+  margin-right: 3rem;
+}
+
+.header__logo {
+  height: 4.2rem;
+}

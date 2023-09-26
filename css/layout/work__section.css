@@ -1,0 +1,20 @@
+.work__section {
+  padding: 12rem 0;
+  background-color: var(--bg-section-color);
+}
+
+.work--img {
+  width: 100%;
+}
+.work__card--description-box {
+  background-color: var(--color-white);
+}
+.work__card {
+  border-radius: 20px;
+  overflow: hidden;
+  transition: all 0.3s;
+}
+
+.work__card:hover {
+  transform: skewY(5deg) scale(1.03);
+}

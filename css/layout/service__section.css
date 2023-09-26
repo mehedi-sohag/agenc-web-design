@@ -1,0 +1,21 @@
+.service__section {
+  padding: 12rem 0;
+}
+
+.service--img {
+  width: 6.4rem;
+  height: 6.4rem;
+}
+
+.service__card {
+  padding: 2.4rem;
+  transition: all 0.3s;
+  border-radius: 20px;
+  border: 1px solid var(--color-white-dark);
+}
+
+.service__card:hover {
+  box-shadow: var(--shadow-lg);
+  border-radius: 20px;
+  /* transform: translateY(-10px); */
+}

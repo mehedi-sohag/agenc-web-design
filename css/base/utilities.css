@@ -1,0 +1,43 @@
+.color-white {
+  color: var(--color-white);
+}
+.color-primary {
+  color: var(--color-primary);
+}
+.color-primary-dark {
+  color: var(--color-primary-dark);
+}
+.color-primary-light {
+  color: var(--color-primary-light);
+}
+
+.color-white-dark {
+  color: var(--color-white-dark);
+}
+.color-white-light {
+  color: var(--color-white-light);
+}
+.color-secondary {
+  color: var(--color-secondary);
+}
+.color-tertiary {
+  color: var(--color-tertiary);
+}
+.color-tertiary-light {
+  color: var(--color-tertiary-light);
+}
+.color-star {
+  color: var(--color-star);
+}
+
+.line-auto {
+  line-height: auto;
+}
+
+.bg-tertiary {
+  background-color: var(--color-tertiary);
+}
+
+.padding-md {
+  padding: 6.4rem 0;
+}
